@@ -74,7 +74,13 @@ LGPD & Proteção de Dados.
  #### 🗃️  Modularização
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-Fluxograma de Modularização Completo. | [Ver Projeto](./engenharia-de-soluções-logicas/) |
+Fluxograma de Modularização Completo. | [Ver Projeto](./modularização/) |
+
+ #### 🗃️  Traduzindo Lógica para Python
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+Projeto mostra o código equivalente em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais. | [Ver Projeto](./traduzindo-lógica-para-python/) |
+
 
 
 
