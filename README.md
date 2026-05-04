@@ -71,6 +71,11 @@ LGPD & Proteção de Dados.
 | :--- | :--- | :---: |
 | **Engenharia de Soluções Lógicas** |Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.| [Ver Projeto](./engenharia-de-soluções-logicas/) |
 
+ #### 🗃️  Modularização
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+Fluxograma de Modularização Completo. | [Ver Projeto](./engenharia-de-soluções-logicas/) |
+
 
 
 
