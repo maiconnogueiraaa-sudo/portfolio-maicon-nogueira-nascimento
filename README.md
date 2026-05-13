@@ -84,8 +84,12 @@ Projeto mostra o código equivalente em Python, garantindo o uso correto de tipo
  #### 🗃️  Engenharia de Contexto e Lógica Física
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](.//) |
+Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./engenharia-de-contexto-e-lógica-física/) |
 
+#### 🗃️  Desenhando Emojis com Dados
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+Projeito com intuito de manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](.//) |m
 
 
 
