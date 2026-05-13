@@ -61,43 +61,22 @@ LGPD & Proteção de Dados.
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Programação de Computadores
+
+ #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Algoritimo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias.| [Ver Projeto](./auditoria-de-vendas/) |
-
- #### 🗃️ Engenharia de Soluções Lógicas
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Engenharia de Soluções Lógicas** |Desenvolver uma solução algorítmica para um problema complexo do mundo real, partindo da abstração visual até a validação lógica.| [Ver Projeto](./engenharia-de-soluções-logicas/) |
-
- #### 🗃️  Modularização
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-Fluxograma de Modularização Completo. | [Ver Projeto](./modularização/) |
-
- #### 🗃️  Traduzindo Lógica para Python
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-Projeto mostra o código equivalente em Python, garantindo o uso correto de tipos de dados, estruturas de repetição e condicionais. | [Ver Projeto](./traduzindo-lógica-para-python/) |
-
- #### 🗃️  Engenharia de Contexto e Lógica Física
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./engenharia-de-contexto-e-lógica-física/) |
-
-#### 🗃️  Desenhando Emojis com Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-Projeto com intuito de manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./desenhando-emojis-com-dados/) |
+| **Algoritmo de Auditoria de Dados** | Um programa que analise a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./auditoria-de-vendas/) |
+| **Engenharia de Soluções Lógicas** | Otimização de semáforos em tempo real para redução de congestionamentos com um fluxograma que representa a lógica da solução. | [Ver Projeto](./engenharia-de-soluções-logicas/) |
+| **Sistema de Caixa e Troco Inteligente** | Um programa para utomatizar o processo de conferência de pagamentos e a devolução otimizada de valores ao cliente, garantindo que o troco seja entregue com o menor número possível de cédulas. | [Ver Projeto](./sistema-de-caixa-e-troco-inteligente/) |
+| **Traduzindo Lógica para Python** | Este repositório contém a implementação em Python de quatro funções complexas originalmente descritas em pseudocódigo. O projeto foi desenvolvido para exercitar a conversão de lógica estruturada para código executável, focando no uso correto de tipagem dinâmica, estruturas de repetição e controle de fluxo condicional | [Ver Projeto](./traduzindo-lógica-para-python/) |
+| **Engenharia de Contexto e Lógica Física** | Aplicando os conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial. | [Ver Projeto](./engenharia-de-contexto-e-lógica-física/) |
+| **Desenhando Emojis com Dados** | Manipulando listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./desenhando-emojis-com-dados/) |
 
 
 
 
-
-
-
- 
+### 🏗 Estrutura do Repositório
+Abaixo, a organização deste repositório para facilitar a navegação:
 
  
 ---
