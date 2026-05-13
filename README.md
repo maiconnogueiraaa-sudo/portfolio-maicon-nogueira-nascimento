@@ -4,9 +4,9 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](maicon-nogueira)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maicon-nogueira)
+
  
 ---
  
@@ -91,10 +91,7 @@ Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estrutur
 | :--- | :--- | :---: |
 Projeto com intuito de manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./desenhando-emojis-com-dados/) |
 
-#### 🗃️  Construção de Portfólio Profissional no GitHub
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-Criar um repositório centralizador que sirva como vitrine profissional, organizando a produção acadêmica e técnica do aluno de forma elegante, visual e profissional.| [Ver Projeto](.//) |
+
 
 
 
