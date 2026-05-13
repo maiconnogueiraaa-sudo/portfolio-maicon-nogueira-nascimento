@@ -89,7 +89,12 @@ Aplicar os conceitos de Listas, Estruturas de Repetição (for, while), Estrutur
 #### 🗃️  Desenhando Emojis com Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-Projeito com intuito de manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](.//) |m
+Projeto com intuito de manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./desenhando-emojis-com-dados/) |
+
+#### 🗃️  Construção de Portfólio Profissional no GitHub
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+Criar um repositório centralizador que sirva como vitrine profissional, organizando a produção acadêmica e técnica do aluno de forma elegante, visual e profissional.| [Ver Projeto](.//) |
 
 
 
